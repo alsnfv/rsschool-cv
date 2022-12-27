@@ -14,7 +14,6 @@ I am 22 years old, I work as a mobile operator.I want to learn frontend developm
     * fast learnability
     * responsibility
 # Skills
-***
     * HTML
     * CSS
     * JavaScript
