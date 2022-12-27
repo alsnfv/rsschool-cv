@@ -8,3 +8,14 @@
 # About Me
 ***
 I am 22 years old, I work as a mobile operator.I want to learn frontend development and work in this profession.Мне очень нравится верстка сайтов,разработка и командная работа,еще хочу в будущем путешествовать по миру
+* My strengths:
+    * disciplined
+    * communicative
+    * fast learnability
+    * responsibility
+# Skills
+***
+    * HTML
+    * CSS
+    * JavaScript
+# Code Examples
