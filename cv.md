@@ -13,8 +13,22 @@ I am 22 years old, I work as a mobile operator.I want to learn frontend developm
     * communicative
     * fast learnability
     * responsibility
-# Skills
-    * HTML
-    * CSS
-    * JavaScript
+# Skills:
+ ***
+ HTML
+ CSS
+ JavaScript
 # Code Examples
+  function countDay() {
+    for(let i=1; i<=3; i++) {
+      alert("День номер " + i);
+    }
+  }
+# Education
+***
+* Technical College
+    * electrification and automation
+# Languages 
+* Russian
+* Middle English
+***
